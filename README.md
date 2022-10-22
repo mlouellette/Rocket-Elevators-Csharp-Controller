@@ -14,7 +14,7 @@ As long as you have **.NET 6.0** installed on your computer, nothing more needs 
 
 The code to run the scenarios is included in the Commercial_Controller folder, and can be executed there with:
 
-- dotnet run <SCENARIO-NUMBER>`
+- dotnet run SCENARIO-NUMBER
 
 To launch the tests, make sure to be at the root of the repository and run:
 
